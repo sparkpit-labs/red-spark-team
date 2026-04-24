@@ -8,7 +8,7 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| main    | ✅ Actively maintained |
+| main    | Actively maintained |
 
 All security work and standards in this repository apply to the current `main` branch.
 
@@ -71,7 +71,7 @@ For vulnerabilities in **specific product repos**, report directly in those repo
 
 ---
 
-## ✅ Acknowledgements
+## Acknowledgements
 
 We maintain a public SECURITY acknowledgements page. Contributors who report responsibly disclosed vulnerabilities will be credited (unless anonymity is requested).
 

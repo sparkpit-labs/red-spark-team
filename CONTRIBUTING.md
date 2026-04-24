@@ -31,7 +31,7 @@ Thank you for your interest in contributing to the red-spark-team security initi
 - Must not introduce new dependencies without approval
 - Include usage docs and limitations in the PR description
 
-### ✅ Code Review Contributions
+### Code Review Contributions
 - Follow the review checklist in any associated PR
 - Be constructive and specific
 - Distinguish between blocking issues and suggestions
