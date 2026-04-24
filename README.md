@@ -1,4 +1,4 @@
-# 🔒 red-spark-team
+# red-spark-team
 
 > Security-first code review and vulnerability assessment for Sparkpit Labs projects.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Mission
+## Mission
 
 - Proactively audit code for vulnerabilities, misconfigurations, and supply-chain risks
 - Establish and enforce secure coding standards across sparkpit-labs
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔍 Scope
+## Scope
 
 This repo serves as the **home base** for the red-spark-team initiative:
 
@@ -29,7 +29,7 @@ This repo serves as the **home base** for the red-spark-team initiative:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 red-spark-team/
@@ -41,7 +41,7 @@ red-spark-team/
 
 ---
 
-## 🛡️ What We Look For
+## What We Look For
 
 | Category | Examples |
 |---|---|
@@ -54,7 +54,7 @@ red-spark-team/
 
 ---
 
-## 🔒 Security Disclosure
+## Security Disclosure
 
 If you've found a security vulnerability in any sparkpit-labs project:
 
@@ -67,13 +67,13 @@ See [SECURITY.md](./SECURITY.md) for full policy.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions — from typos in docs to full audit reports. Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting PRs or issues. All contributors must follow our code of conduct and signing requirements.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **Apache License 2.0**. See [LICENSE](./LICENSE) for details.
 
